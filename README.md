@@ -11,10 +11,10 @@
 
 - 🌱 I’m currently learning **REACT JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/0x-Sarthak](https://github.com/0x-Sarthak)
+
 
 - 💬 Ask me about **React redux nodeJs**
-
+- 📝 View my Project <a href="https://github.com/0x-Sarthak">here.</a>
 - 📫 How to reach me **sarthakahuja447@gmail.com**
 <img src="https://img.freepik.com/free-vector/data-center-room-with-server-hardware_107791-3683.jpg?w=1380&t=st=1678360763~exp=1678361363~hmac=73943899d575a33b5b11fb8c36029fdd6b1ba5b8d327242ec26806df4a3284c3" alt="" >
 
