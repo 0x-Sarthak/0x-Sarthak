@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ![](https://github-readme-stats.vercel.app/api?username=0x-Sarthak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=0x-Sarthak&theme=highcontrast&hide_border=false)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Sarthak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Sarthak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0x-Sarthak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=60)
