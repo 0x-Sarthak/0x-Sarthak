@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here.<br><br>📫 How to reach me sarthakahuja447@gmail.com
+🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://0x-sarthak.github.io/<br><br>📫 How to reach me sarthakahuja447@gmail.com
 
 
 ## 🌐 Socials:
