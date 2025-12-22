@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning NodeJS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 Check my services. https://sickdevs.com/<br><br>📫 How to reach me sarthakahuja447@gmail.com
+🌱 I’m currently Building SickDevs<br><br>💬 Ask me about React redux nodeJs Web3 Blockchain<br><br>📝 Check my services. https://sickdevs.com/<br><br>📫 How to reach me sarthakahuja447@gmail.com
 
 
 ## 🌐 Socials:
